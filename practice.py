@@ -22,7 +22,6 @@ class Solution:
         self.quickSortHelper(arr,left+1,e)
 
 
-        #version2Update
-        
+        #version2
         
     

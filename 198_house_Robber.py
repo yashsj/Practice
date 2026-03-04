@@ -1,3 +1,4 @@
+#All the possible approaches
 class Solution:
     def rob(self, nums: List[int]) -> int:
         #Top Down approach

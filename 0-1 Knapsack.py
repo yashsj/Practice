@@ -1,3 +1,4 @@
+#Using memoization and DP 
 class Solution:
     def maximumProfit(self, profit: List[int], weight: List[int], capacity: int) -> int:
         N,M=len(profit),capacity

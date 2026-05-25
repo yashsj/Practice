@@ -1,3 +1,4 @@
+#Using dp method 
 class Solution:
     def maximumProfit(self, profit: List[int], weight: List[int], capacity: int) -> int:
         N,M=len(weight),capacity
